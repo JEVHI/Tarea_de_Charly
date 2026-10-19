@@ -17,7 +17,7 @@
         salidas, validaciones y casos de prueba claros.
 """
 """
-    PRINCIPLES AND BEST PRACTICES / PRINCIPIOS Y BUENAS PRÁCTICAS
+    PRINCIPLES AND BEST PRACTICES
         - Usar tipos de datos apropiados: int para contadores o cantidades enteras, float para medidas precisas.
         - Evitar duplicar expresiones almacenando resultados intermedios en variables descriptivas.
         - Validar siempre los datos crudos antes de realizar operaciones aritméticas (verificaciones de no negatividad, prevención de división por cero).
