@@ -4,7 +4,7 @@
     IM 1-1
 """
 """
-    RESUMEN EJECUTIVO / EXECUTIVE SUMMARY
+    RESUMEN EJECUTIVO
         Las colecciones en Python permiten almacenar y organizar conjuntos de datos. Una 
         lista es una colección ordenada y mutable que permite modificar, agregar o eliminar 
         elementos dinámicamente. Una tupla es ordenada pero inmutable, ideal para datos 
@@ -20,7 +20,7 @@
         problema detalla sus entradas, salidas, validaciones rigurosas y casos de prueba.
 """
 """
-    PRINCIPIOS Y BUENAS PRÁCTICAS / PRINCIPLES AND BEST PRACTICES
+    PRINCIPIOS Y BUENAS PRÁCTICAS
         - Utilizar listas cuando se requiera modificar el tamaño o contenido de la colección con frecuencia.
         - Utilizar tuplas para agrupar datos relacionados que deben permanecer inmutables (ej. coordenadas 2D).
         - Utilizar diccionarios para búsquedas eficientes basadas en claves únicas descriptivas.
